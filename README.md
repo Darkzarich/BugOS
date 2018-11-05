@@ -1,5 +1,5 @@
 # BugOS
-A university project which represents a simple and pretty limited OS made on C and NASM. Basically, allows only drawing and save drawn pictures on ROM itself.
+A university project which represents a simple and pretty limited OS made on C and NASM. Basically, allows only drawing and storing drawn pictures on ROM itself.
 
 File compile lvl two.exe is specially written compiler to make a ROM out of all files in directory such as pictures of interface and load screen, nasm pre-load instructions, C combined with NASM functions. 
 
